@@ -1,0 +1,12 @@
+langgraph
+langchain-core
+langchain-ollama
+langchain-pinecone
+langchain-text-splitters
+pinecone
+pypdf
+fastapi
+uvicorn[standard]
+python-dotenv
+pytest
+httpx
